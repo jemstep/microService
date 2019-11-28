@@ -1,2 +1,2 @@
-# microService
-The HelloWorld of MicroServices
+# exampleEndpoint
+Basic Framework for future Money Movement and Stuff
